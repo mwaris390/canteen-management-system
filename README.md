@@ -25,11 +25,17 @@ The **Canteen Management System** harnesses the power of the following technolog
 To get started with the **Canteen Management System**, follow these steps:
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
-   ```git clone https://github.com/yourusername/canteen-management-system.git```
+   ```
+   git clone https://github.com/yourusername/canteen-management-system.git
+   ```
 3. **Navigate to Directory:** Move into the project directory:
-   ```cd canteen-management-system```
+   ```
+   cd canteen-management-system
+   ```
 5. **Create a Virtual Environment:** Set up a virtual environment to isolate project dependencies:
-   ```python -m venv venv```
+   ```
+   python -m venv venv
+   ```
 7. **Activate the Virtual Environment:** Activate the virtual environment you just created:
 - On Windows:
   ```
